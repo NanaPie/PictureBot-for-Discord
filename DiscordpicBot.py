@@ -282,7 +282,7 @@ async def on_message(message):
         
 while True:
     try:
-        client.run('NjI3NzgxODU5NzQ4NzQxMTYx.XZBuSQ.WkNRjeeRfdGb_l_Mi_Rrax1UOGk')
+        client.run('NjI3NzgxODU5NzQ4NzQxMTYx.XZB25A.PNR1oGWLL_7A0DYCtAvvjKOX7GY')
     except ConnectionResetError:
         print("reconnect")
     except Exception as error:
