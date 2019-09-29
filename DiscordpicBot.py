@@ -282,7 +282,7 @@ async def on_message(message):
         
 while True:
     try:
-        client.run('<DISCORD TOKEN>')
+        client.run('NjI3NzgxODU5NzQ4NzQxMTYx.XZBuSQ.WkNRjeeRfdGb_l_Mi_Rrax1UOGk')
     except ConnectionResetError:
         print("reconnect")
     except Exception as error:
